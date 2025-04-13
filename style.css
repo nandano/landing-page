@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 12px;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.header {
+    margin: 24px 80px;
+}
