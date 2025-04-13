@@ -144,3 +144,12 @@ body {
     padding: 6px 20px;
     border-radius: 16px;
 }
+
+.footer {
+    background-color: #1f2937;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
+}
