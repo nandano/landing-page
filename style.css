@@ -23,6 +23,7 @@ body {
 
 .header {
     padding: 24px 80px;
+    margin-bottom: 48px;
 }
 
 .hero-section {
@@ -62,4 +63,8 @@ body {
     font-weight: 700;
     border-radius: 8px;
     border: 0 none;
+}
+
+.first {
+    padding-bottom: 48px;
 }
