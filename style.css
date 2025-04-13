@@ -123,3 +123,24 @@ body {
     margin-left: 400px;
     font-weight: 700;
 }
+
+.fourth {
+    padding: 80px;
+}
+
+.blue-section {
+    background-color: #3882f6;
+    color:#f9faf8;
+    padding: 36px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 12px;
+}
+
+.blue-section button {
+    background-color: #3882f6;
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    padding: 6px 20px;
+    border-radius: 16px;
+}
