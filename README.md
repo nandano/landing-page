@@ -1,2 +1,2 @@
 Images:
-1. Stephan Seeber: https://www.pexels.com/@stywo/
+1. Rohit Tandon: https://unsplash.com/photos/aerial-photography-of-mountain-range-covered-with-snow-under-white-and-blue-sky-at-daytime-9wg5jCEPBsw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash
